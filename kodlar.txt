@@ -1,3 +1,9 @@
 v1 kodları...
 system out println("git kodları")
 v2 calismalarım
+v3 calısmalarım
+yesiden kırmızıya alacagım
+yeni kod
+v4 yeni calisma
+//v3 129 calısmalarım
+//stash kodu
